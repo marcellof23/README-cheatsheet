@@ -15,7 +15,7 @@
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](../img/screenshot.png)
 
 ## Technologies
 * Tech 1 - version 1.0
@@ -31,16 +31,12 @@ Show examples of usage:
 
 ## Features
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Multi-upload documents with Drag and Drop features.
+* Normal mode and Webscrap mode.
+* Searching through documents.
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is: finished
 
 ## Inspiration
 Add here credits. Project inspired by..., based on...
